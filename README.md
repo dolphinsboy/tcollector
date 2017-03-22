@@ -13,6 +13,6 @@
 + subprocess执行脚本
 + socket通信
 + 正则表达式
-+ 守护进程
++ 守护进程 `Done`
 + PYTHONPATH 设置
 + yield 迭代实现
